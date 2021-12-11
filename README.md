@@ -20,7 +20,7 @@
 
 <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=yasmimc&count_private=true&theme=radical" height="400" />
 
-### I use to work with:
+### I'm used to work with:
 
 <img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="assets\vsCode.png" />
 <img title="HTML5" align="left" alt="HTML5" width="26px" src="assets\html5.png" />
