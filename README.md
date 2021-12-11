@@ -20,7 +20,7 @@
 
 <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=yasmimc&count_private=true&theme=radical" height="400" />
 
-### Languages and Tools:
+### I use to work with:
 
 <img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="assets\vsCode.png" />
 <img title="HTML5" align="left" alt="HTML5" width="26px" src="assets\html5.png" />
@@ -35,15 +35,22 @@
 <img title="EsLint" align="left" alt="EsLint" width="26px" src="assets\eslint.png" />
 <img title="Vercel" align="left" alt="Vercel" width="26px" src="assets\vercel-deploy.png" />
 <img title="Heroku" align="left" alt="Heroku" width="26px" src="assets\heroku.png" />
+<img title="npm" align="left" alt="npm" width="26px" src="assets\npm.png" />
+<img title="terminal" align="left" alt="terminal" width="26px" src="assets\terminal.png" />
+<img title="Git" align="left" alt="Git" width="26px" src="assets\git.png" />
+<img title="Linux" align="left" alt="Linux" width="26px" src="assets\linux.png" />
+
+<br />
+<br />
+
+### But I also know:
+
+<img title="Docker" align="left" alt="Docker" width="26px" src="assets\docker.png" />
 <img title="Ruby on Reils" align="left" alt="Ruby on Reils" width="26px" src="assets\ruby.png" />
 <img title="MongoDB" align="left" alt="MongoDB" width="26px" src="assets\mongodb.png" />
 <img title="C Language" align="left" alt="C Language" width="26px" src="assets\c.png" />
 <img title="Lua Language" align="left" alt="Lua Language" width="26px" src="assets\lua.png" />
-<img title="Docker" align="left" alt="Docker" width="26px" src="assets\docker.png" />
-<img title="npm" align="left" alt="npm" width="26px" src="assets\npm.png" />
 <img title="RubyGems" align="left" alt="RubyGems" width="26px" src="assets\rubygems.png" />
-<img title="terminal" align="left" alt="terminal" width="26px" src="assets\terminal.png" />
-<img title="Git" align="left" alt="Git" width="26px" src="assets\git.png" />
-<img title="Linux" align="left" alt="Linux" width="26px" src="assets\linux.png" />
+<img title="Windows" align="left" alt="Windows" width="26px" src="assets\windows.png" />
 
 [linkedin]: https://www.linkedin.com/in/yasmim-cavalcanti/
