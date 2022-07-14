@@ -6,7 +6,7 @@
 
 - 👩🏽‍💻 Pronouns: She/Her
 - 🎓 I'm currently doing a degree in information systems.
-- 🌱 I’m currently learning Ruby on Reils and NoSQL
+- 🌱 I’m currently improving my Java skills
 - 👯 I’m looking to collaborate on open source projects, if you have any tips i would love to hear!
 - 🕵🏽‍♀️ I am an information security enthusiast and I love to study topics related to it!
 - 😄 Fun fact: When i'm bored i like to dye my hair
